@@ -1,0 +1,6 @@
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/bin/Debug/ArrayExercises.exe
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/bin/Debug/ArrayExercises.pdb
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/obj/x86/Debug/ArrayExercises.csprojAssemblyReference.cache
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/obj/x86/Debug/ArrayExercises.csproj.CoreCompileInputs.cache
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/obj/x86/Debug/ArrayExercises.exe
+/Users/johnkaraplis/Desktop/Development/Beginner Lessons/ArrayExercises/ArrayExercises/obj/x86/Debug/ArrayExercises.pdb
